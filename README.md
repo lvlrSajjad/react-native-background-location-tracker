@@ -1,7 +1,7 @@
 
 # react-native-background-location-tracker
 
-this library tracks users location even when the app completely swiped. and sends the data to your backend controller.
+this library tracks users location even when the app completely swiped. and every 200 meter movemens sends the data to your backend controller 
 the only way to stop the service is StopLocationService method.
 
 ## Getting started
