@@ -1,7 +1,8 @@
 
 # react-native-background-location-tracker
 
-this library tracks location even when the app completely swiped. and sends the data to your backend controller
+this library tracks users location even when the app completely swiped. and sends the data to your backend controller.
+the only way to stop the service is StopLocationService method.
 
 ## Getting started
 
@@ -39,6 +40,9 @@ Not Supported Yet , Comming Soon
 you need a backend controller to receive 'application/json' type post params (Receives An AuthKey Param, Latitude Param, Longitude Param) 
 
 set the name of params and backend controller link and other data to StartLocationService method like below example
+
+to stop the service use StopLocationService method.
+
 
 ```javascript
 import React, {Component} from 'react';
