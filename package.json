@@ -1,0 +1,29 @@
+
+{
+  "name": "react-native-background-location-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+	"sajjad-background-location-tracker",
+	"background-location-tracker",
+	"location-tracker",
+	"react-native-blur",
+	"react-native-background-location-tracker"
+  ],
+  "author": { "name" : "Sajjad Asadi"
+, "email" : "lvlr.xaus@gmail.com"
+, "url" : ""
+},
+  "homepage": "https://github.com/lvlrSajjad/sajjad-background-location-tracker",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+
+  }
+}
