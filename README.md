@@ -22,7 +22,7 @@ Not Supported Yet , Comming Soon
 #### Android
 
 1. Open up `android/app/src/main/java/[...]/MainApplication.java`
-  - Add `import com.reactlibrary.sajjadBackgroundLocationTrackerPackage;` to the imports at the top of the file
+  - Add `import com.backgroundlocationtracker.sajjadBackgroundLocationTrackerPackage;` to the imports at the top of the file
   - Add `new sajjadBackgroundLocationTrackerPackage()` to the list returned by the `getPackages()` method
 2. Append the following lines to `android/settings.gradle`:
   	```
