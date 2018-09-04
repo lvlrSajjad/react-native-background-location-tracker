@@ -1,29 +1,94 @@
-
 {
-  "name": "react-native-background-location-tracker",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      {
+        "raw": "sajjad-background-location-tracker",
+        "scope": null,
+        "escapedName": "sajjad-background-location-tracker",
+        "name": "sajjad-background-location-tracker",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\CodingProjects\\ReactNative\\BackgroundLocationTracker\\TestBoilerPlate"
+    ]
+  ],
+  "_from": "sajjad-background-location-tracker@latest",
+  "_hasShrinkwrap": false,
+  "_id": "sajjad-background-location-tracker@1.0.0",
+  "_inCache": true,
+  "_location": "/sajjad-background-location-tracker",
+  "_nodeVersion": "8.10.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/sajjad-background-location-tracker_1.0.0_1535814911190_0.35517272273703404"
   },
+  "_npmUser": {
+    "name": "lvlrsajjad",
+    "email": "lvlr.xaus@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "sajjad-background-location-tracker",
+    "scope": null,
+    "escapedName": "sajjad-background-location-tracker",
+    "name": "sajjad-background-location-tracker",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sajjad-background-location-tracker/-/sajjad-background-location-tracker-1.0.0.tgz",
+  "_shasum": "2ee9e532f446333242ac56bcb21ea7092ddfe8fd",
+  "_shrinkwrap": null,
+  "_spec": "sajjad-background-location-tracker",
+  "_where": "D:\\CodingProjects\\ReactNative\\BackgroundLocationTracker\\TestBoilerPlate",
+  "author": {
+    "name": "Sajjad Asadi",
+    "email": "lvlr.xaus@gmail.com"
+  },
+  "dependencies": {},
+  "description": "this library tracks users location even when the app completely swiped. and sends the data to your backend controller. the only way to stop the service is StopLocationService method.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "2ee9e532f446333242ac56bcb21ea7092ddfe8fd",
+    "tarball": "https://registry.npmjs.org/sajjad-background-location-tracker/-/sajjad-background-location-tracker-1.0.0.tgz",
+    "integrity": "sha512-mgLGSUXrmPiMEEyCzZTLrzgEOwoEBeMil8bvV5zqsK+oN0/P4YmI4N3x0MI3PeMkjTN2eRse3iU5Sch5NrQX9g==",
+    "fileCount": 1365,
+    "unpackedSize": 23934999,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbiq0ACRA9TVsSAnZWagAA/7cP/iXGbSu/GdgKBjEkeRBZ\nudqRG1rZVOfi2lP6a6vhjDYHfdQYRveY+ezYUbSVb5Pd1WqUPwWVNt8CI60e\nCkC7yCgB744hDcWoCzjpoGKn6XmiwrYXApQ32HDrkE3xk+wPoeSa1kGQ2AUl\nTS7IFYB9LIsl90gsZrUzC7y2M/3B9usLrz3ieA4LFSEpopxXORsPpp8A13oz\nLwLukFbYSxP3V8ZfSJW0mXBjPbPX+Cy/ChWaDrxmfZdJwB4mdR0YDFGWvSA1\nEo/2teT1iJroE/zuOBVSy68jdsx/u4ZSz5uXClnIgVkaC8q3ZerQjhJdqf8t\nXN5kiEHYYe07i5fz5V7aZnw7lp9XWuChxrHPJrO/KvPpzDHUjAKgg8ytIvR/\npVkd1TZUEl/zcfzUw4tVJiKdNlAhiyXoy4cGj0JIn6nwHxXIcgusNqxjif0c\nrx9kUz6vWJFOERrCVaodU4ktU915+cL1WCTu2eBke5HoD9auVl1qsceQQr5t\nIMIVXpa0QiXvAyPnuRG4La4GkZW27orDqMpGW4NeJFd4nGou6oJ9Ud0IbKXJ\neEiLYOur5jSM3EhoL+hvog+aFcZZpxagHxjwvbr5+a5VDn5gnXGlVl51sRsh\nnm2Tf7WHFSZY7TtzSG9N7kF8AqW0jy134+FtXrOcQZjhwq0qGZWjHceC8wDs\nmfUA\r\n=T4Lp\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "4c457c5bdb1b296e1b29a504dc1c96ca95bc1efa",
+  "homepage": "https://github.com/lvlrSajjad/sajjad-background-location-tracker",
   "keywords": [
     "react-native",
-	"sajjad-background-location-tracker",
-	"background-location-tracker",
-	"location-tracker",
-	"react-native-blur",
-	"react-native-background-location-tracker"
+    "sajjad-background-location-tracker",
+    "background-location-tracker",
+    "location-tracker",
+    "react-native-background-location-tracker"
   ],
-  "author": { "name" : "Sajjad Asadi"
-, "email" : "lvlr.xaus@gmail.com"
-, "url" : ""
-},
-  "homepage": "https://github.com/lvlrSajjad/sajjad-background-location-tracker",
   "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "lvlrsajjad",
+      "email": "lvlr.xaus@gmail.com"
+    }
+  ],
+  "name": "sajjad-background-location-tracker",
+  "optionalDependencies": {},
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }
