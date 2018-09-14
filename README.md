@@ -1,5 +1,7 @@
+[![https://nodei.co/npm/sajjad-background-location-tracker.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/sajjad-background-location-tracker.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sajjad-background-location-tracker)
 
-# sajjad-background-location-tracker
+# sajjad-background-location-tracker [![npm version](https://img.shields.io/npm/v/sajjad-background-location-tracker.svg)](https://www.npmjs.com/package/sajjad-background-location-tracker)
+
 
 this library tracks users location even when the app completely swiped. and sends the data to your backend controller.
 the only way to stop the service is StopLocationService method.
