@@ -1,5 +1,5 @@
 
-# react-native-background-location-tracker [![npm version](https://img.shields.io/npm/v/sajjad-background-location-tracker.svg)](https://www.npmjs.com/package/sajjad-background-location-tracker)
+# react-native-background-location-tracker [![npm version](https://img.shields.io/npm/v/react-native-background-location-tracker.svg)](https://www.npmjs.com/package/react-native-background-location-tracker)
 
 
 this library tracks users location even when the app completely swiped. and sends the data to your backend controller.
@@ -7,11 +7,11 @@ the only way to stop the service is StopLocationService method.
 
 ## Getting started
 
-`$ npm install sajjad-background-location-tracker --save`
+`$ npm install react-native-background-location-tracker --save`
 
 ### Mostly automatic installation
 
-`$ react-native link sajjad-background-location-tracker`
+`$ react-native link react-native-background-location-tracker`
 
 ### Manual installation
 
@@ -27,12 +27,12 @@ Not Supported Yet , Comming Soon
   - Add `new sajjadBackgroundLocationTrackerPackage()` to the list returned by the `getPackages()` method
 2. Append the following lines to `android/settings.gradle`:
   	```
-  	include ':sajjad-background-location-tracker'
-  	project(':sajjad-background-location-tracker').projectDir = new File(rootProject.projectDir, 	'../node_modules/sajjad-background-location-tracker/android')
+  	include ':react-native-background-location-tracker'
+  	project(':react-native-background-location-tracker').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-background-location-tracker/android')
   	```
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
   	```
-      compile project(':sajjad-background-location-tracker')
+      compile project(':react-native-background-location-tracker')
   	```
 
 
@@ -48,7 +48,7 @@ to stop the service use StopLocationService method.
 ```javascript
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View, TouchableOpacity} from 'react-native';
-import BackgroundLocationTracking from 'sajjad-background-location-tracker';
+import BackgroundLocationTracking from 'react-native-background-location-tracker';
 
 const instructions = Platform.select({
     ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
