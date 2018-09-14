@@ -1,5 +1,5 @@
 
-# sajjad-background-location-tracker [![npm version](https://img.shields.io/npm/v/sajjad-background-location-tracker.svg)](https://www.npmjs.com/package/sajjad-background-location-tracker)
+# react-native-background-location-tracker [![npm version](https://img.shields.io/npm/v/sajjad-background-location-tracker.svg)](https://www.npmjs.com/package/sajjad-background-location-tracker)
 
 
 this library tracks users location even when the app completely swiped. and sends the data to your backend controller.
