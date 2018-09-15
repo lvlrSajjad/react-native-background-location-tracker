@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\CodingProjects\ReactNative\BackgroundLocationTracker\TestBoilerPlate\node_modules\sajjad-background-location-tracker\android\src\main\shaders"/></dataSet><dataSet config="release"><source path="D:\CodingProjects\ReactNative\BackgroundLocationTracker\TestBoilerPlate\node_modules\sajjad-background-location-tracker\android\src\release\shaders"/></dataSet></merger>
